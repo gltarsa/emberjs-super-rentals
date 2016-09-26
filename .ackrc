@@ -1,0 +1,14 @@
+# directories for ack to ignore
+--ignore-dir=bower_components
+--ignore-dir=.sass-cache
+--ignore-dir=dist
+--ignore-dir=node-modules
+--ignore-dir=fixdata
+--ignore-dir=log
+--ignore-dir=coverage
+--ignore-dir=tmp
+--ignore-dir=ignore
+--ignore-dir=obs
+--ignore-dir=cache
+--nojson
+--noxml
